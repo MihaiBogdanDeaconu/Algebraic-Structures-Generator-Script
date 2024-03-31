@@ -1,0 +1,16 @@
+Operation table number 1: 
+[ a₁ a₂ a₃ ]
+[ a₂ a₃ a₁ ]
+[ a₃ a₁ a₂ ]
+
+Operation table number 2: 
+[ a₂ a₃ a₁ ]
+[ a₃ a₁ a₂ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 3: 
+[ a₃ a₁ a₂ ]
+[ a₁ a₂ a₃ ]
+[ a₂ a₃ a₁ ]
+
+The total number of Abelian Groups is 3

@@ -1,0 +1,97 @@
+Operation table number 1: 
+[ a₁ a₂ a₃ a₄ ]
+[ a₂ a₁ a₄ a₃ ]
+[ a₃ a₄ a₁ a₂ ]
+[ a₄ a₃ a₂ a₁ ]
+
+Operation table number 2: 
+[ a₁ a₂ a₃ a₄ ]
+[ a₂ a₁ a₄ a₃ ]
+[ a₃ a₄ a₂ a₁ ]
+[ a₄ a₃ a₁ a₂ ]
+
+Operation table number 3: 
+[ a₁ a₂ a₃ a₄ ]
+[ a₂ a₃ a₄ a₁ ]
+[ a₃ a₄ a₁ a₂ ]
+[ a₄ a₁ a₂ a₃ ]
+
+Operation table number 4: 
+[ a₁ a₂ a₃ a₄ ]
+[ a₂ a₄ a₁ a₃ ]
+[ a₃ a₁ a₄ a₂ ]
+[ a₄ a₃ a₂ a₁ ]
+
+Operation table number 5: 
+[ a₂ a₁ a₄ a₃ ]
+[ a₁ a₂ a₃ a₄ ]
+[ a₄ a₃ a₁ a₂ ]
+[ a₃ a₄ a₂ a₁ ]
+
+Operation table number 6: 
+[ a₂ a₁ a₄ a₃ ]
+[ a₁ a₂ a₃ a₄ ]
+[ a₄ a₃ a₂ a₁ ]
+[ a₃ a₄ a₁ a₂ ]
+
+Operation table number 7: 
+[ a₂ a₃ a₄ a₁ ]
+[ a₃ a₄ a₁ a₂ ]
+[ a₄ a₁ a₂ a₃ ]
+[ a₁ a₂ a₃ a₄ ]
+
+Operation table number 8: 
+[ a₂ a₄ a₁ a₃ ]
+[ a₄ a₃ a₂ a₁ ]
+[ a₁ a₂ a₃ a₄ ]
+[ a₃ a₁ a₄ a₂ ]
+
+Operation table number 9: 
+[ a₃ a₁ a₄ a₂ ]
+[ a₁ a₂ a₃ a₄ ]
+[ a₄ a₃ a₂ a₁ ]
+[ a₂ a₄ a₁ a₃ ]
+
+Operation table number 10: 
+[ a₃ a₄ a₁ a₂ ]
+[ a₄ a₁ a₂ a₃ ]
+[ a₁ a₂ a₃ a₄ ]
+[ a₂ a₃ a₄ a₁ ]
+
+Operation table number 11: 
+[ a₃ a₄ a₁ a₂ ]
+[ a₄ a₃ a₂ a₁ ]
+[ a₁ a₂ a₃ a₄ ]
+[ a₂ a₁ a₄ a₃ ]
+
+Operation table number 12: 
+[ a₃ a₄ a₂ a₁ ]
+[ a₄ a₃ a₁ a₂ ]
+[ a₂ a₁ a₄ a₃ ]
+[ a₁ a₂ a₃ a₄ ]
+
+Operation table number 13: 
+[ a₄ a₁ a₂ a₃ ]
+[ a₁ a₂ a₃ a₄ ]
+[ a₂ a₃ a₄ a₁ ]
+[ a₃ a₄ a₁ a₂ ]
+
+Operation table number 14: 
+[ a₄ a₃ a₁ a₂ ]
+[ a₃ a₄ a₂ a₁ ]
+[ a₁ a₂ a₃ a₄ ]
+[ a₂ a₁ a₄ a₃ ]
+
+Operation table number 15: 
+[ a₄ a₃ a₂ a₁ ]
+[ a₃ a₁ a₄ a₂ ]
+[ a₂ a₄ a₁ a₃ ]
+[ a₁ a₂ a₃ a₄ ]
+
+Operation table number 16: 
+[ a₄ a₃ a₂ a₁ ]
+[ a₃ a₄ a₁ a₂ ]
+[ a₂ a₁ a₄ a₃ ]
+[ a₁ a₂ a₃ a₄ ]
+
+The total number of Abelian Groups is 16

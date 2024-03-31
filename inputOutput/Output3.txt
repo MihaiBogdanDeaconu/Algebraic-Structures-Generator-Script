@@ -1,0 +1,566 @@
+Operation table number 1: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₁ a₁ ]
+[ a₁ a₁ a₁ ]
+
+Operation table number 2: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₁ a₁ ]
+[ a₁ a₁ a₂ ]
+
+Operation table number 3: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₁ a₁ ]
+[ a₁ a₁ a₃ ]
+
+Operation table number 4: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₁ a₁ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 5: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₁ a₁ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 6: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₁ a₂ ]
+[ a₁ a₁ a₃ ]
+
+Operation table number 7: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₁ a₂ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 8: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₂ a₁ ]
+[ a₁ a₁ a₁ ]
+
+Operation table number 9: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₂ a₁ ]
+[ a₁ a₁ a₃ ]
+
+Operation table number 10: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₂ a₁ ]
+[ a₁ a₃ a₁ ]
+
+Operation table number 11: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₂ a₁ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 12: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₂ a₂ ]
+[ a₁ a₂ a₂ ]
+
+Operation table number 13: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₂ a₂ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 14: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₂ a₂ ]
+[ a₁ a₃ a₃ ]
+
+Operation table number 15: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₂ a₃ ]
+[ a₁ a₁ a₁ ]
+
+Operation table number 16: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₂ a₃ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 17: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₂ a₃ ]
+[ a₁ a₃ a₁ ]
+
+Operation table number 18: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₂ a₃ ]
+[ a₁ a₃ a₂ ]
+
+Operation table number 19: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₂ a₃ ]
+[ a₁ a₃ a₃ ]
+
+Operation table number 20: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₂ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 21: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₃ a₁ ]
+[ a₁ a₁ a₁ ]
+
+Operation table number 22: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₃ a₂ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 23: 
+[ a₁ a₁ a₁ ]
+[ a₁ a₃ a₃ ]
+[ a₁ a₃ a₃ ]
+
+Operation table number 24: 
+[ a₁ a₁ a₁ ]
+[ a₂ a₂ a₂ ]
+[ a₁ a₁ a₁ ]
+
+Operation table number 25: 
+[ a₁ a₁ a₁ ]
+[ a₂ a₂ a₂ ]
+[ a₁ a₁ a₃ ]
+
+Operation table number 26: 
+[ a₁ a₁ a₁ ]
+[ a₂ a₂ a₂ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 27: 
+[ a₁ a₁ a₁ ]
+[ a₂ a₂ a₂ ]
+[ a₂ a₂ a₂ ]
+
+Operation table number 28: 
+[ a₁ a₁ a₁ ]
+[ a₂ a₂ a₂ ]
+[ a₂ a₂ a₃ ]
+
+Operation table number 29: 
+[ a₁ a₁ a₁ ]
+[ a₂ a₂ a₂ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 30: 
+[ a₁ a₁ a₁ ]
+[ a₃ a₂ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 31: 
+[ a₁ a₁ a₁ ]
+[ a₃ a₃ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 32: 
+[ a₁ a₁ a₃ ]
+[ a₁ a₁ a₃ ]
+[ a₁ a₁ a₃ ]
+
+Operation table number 33: 
+[ a₁ a₁ a₃ ]
+[ a₁ a₁ a₃ ]
+[ a₃ a₃ a₁ ]
+
+Operation table number 34: 
+[ a₁ a₁ a₃ ]
+[ a₁ a₁ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 35: 
+[ a₁ a₁ a₃ ]
+[ a₁ a₂ a₃ ]
+[ a₁ a₁ a₃ ]
+
+Operation table number 36: 
+[ a₁ a₁ a₃ ]
+[ a₁ a₂ a₃ ]
+[ a₁ a₃ a₃ ]
+
+Operation table number 37: 
+[ a₁ a₁ a₃ ]
+[ a₁ a₂ a₃ ]
+[ a₃ a₃ a₁ ]
+
+Operation table number 38: 
+[ a₁ a₁ a₃ ]
+[ a₁ a₂ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 39: 
+[ a₁ a₁ a₃ ]
+[ a₂ a₂ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 40: 
+[ a₁ a₂ a₁ ]
+[ a₁ a₂ a₁ ]
+[ a₁ a₂ a₁ ]
+
+Operation table number 41: 
+[ a₁ a₂ a₁ ]
+[ a₁ a₂ a₁ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 42: 
+[ a₁ a₂ a₁ ]
+[ a₁ a₂ a₂ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 43: 
+[ a₁ a₂ a₁ ]
+[ a₂ a₁ a₂ ]
+[ a₁ a₂ a₁ ]
+
+Operation table number 44: 
+[ a₁ a₂ a₁ ]
+[ a₂ a₁ a₂ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 45: 
+[ a₁ a₂ a₁ ]
+[ a₂ a₂ a₂ ]
+[ a₁ a₂ a₁ ]
+
+Operation table number 46: 
+[ a₁ a₂ a₁ ]
+[ a₂ a₂ a₂ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 47: 
+[ a₁ a₂ a₁ ]
+[ a₂ a₂ a₂ ]
+[ a₃ a₂ a₃ ]
+
+Operation table number 48: 
+[ a₁ a₂ a₂ ]
+[ a₁ a₂ a₂ ]
+[ a₁ a₂ a₂ ]
+
+Operation table number 49: 
+[ a₁ a₂ a₂ ]
+[ a₁ a₂ a₂ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 50: 
+[ a₁ a₂ a₂ ]
+[ a₂ a₁ a₁ ]
+[ a₂ a₁ a₁ ]
+
+Operation table number 51: 
+[ a₁ a₂ a₂ ]
+[ a₂ a₂ a₂ ]
+[ a₂ a₂ a₂ ]
+
+Operation table number 52: 
+[ a₁ a₂ a₂ ]
+[ a₂ a₂ a₂ ]
+[ a₂ a₂ a₃ ]
+
+Operation table number 53: 
+[ a₁ a₂ a₂ ]
+[ a₂ a₂ a₂ ]
+[ a₃ a₂ a₂ ]
+
+Operation table number 54: 
+[ a₁ a₂ a₂ ]
+[ a₂ a₂ a₂ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 55: 
+[ a₁ a₂ a₃ ]
+[ a₁ a₂ a₃ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 56: 
+[ a₁ a₂ a₃ ]
+[ a₁ a₂ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 57: 
+[ a₁ a₂ a₃ ]
+[ a₂ a₁ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 58: 
+[ a₁ a₂ a₃ ]
+[ a₂ a₂ a₂ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 59: 
+[ a₁ a₂ a₃ ]
+[ a₂ a₂ a₂ ]
+[ a₂ a₂ a₂ ]
+
+Operation table number 60: 
+[ a₁ a₂ a₃ ]
+[ a₂ a₂ a₂ ]
+[ a₃ a₂ a₁ ]
+
+Operation table number 61: 
+[ a₁ a₂ a₃ ]
+[ a₂ a₂ a₂ ]
+[ a₃ a₂ a₂ ]
+
+Operation table number 62: 
+[ a₁ a₂ a₃ ]
+[ a₂ a₂ a₂ ]
+[ a₃ a₂ a₃ ]
+
+Operation table number 63: 
+[ a₁ a₂ a₃ ]
+[ a₂ a₂ a₂ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 64: 
+[ a₁ a₂ a₃ ]
+[ a₂ a₂ a₃ ]
+[ a₂ a₂ a₃ ]
+
+Operation table number 65: 
+[ a₁ a₂ a₃ ]
+[ a₂ a₂ a₃ ]
+[ a₃ a₂ a₃ ]
+
+Operation table number 66: 
+[ a₁ a₂ a₃ ]
+[ a₂ a₂ a₃ ]
+[ a₃ a₃ a₂ ]
+
+Operation table number 67: 
+[ a₁ a₂ a₃ ]
+[ a₂ a₂ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 68: 
+[ a₁ a₂ a₃ ]
+[ a₂ a₃ a₁ ]
+[ a₃ a₁ a₂ ]
+
+Operation table number 69: 
+[ a₁ a₂ a₃ ]
+[ a₂ a₃ a₂ ]
+[ a₃ a₂ a₃ ]
+
+Operation table number 70: 
+[ a₁ a₂ a₃ ]
+[ a₂ a₃ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 71: 
+[ a₁ a₂ a₃ ]
+[ a₃ a₂ a₃ ]
+[ a₃ a₂ a₃ ]
+
+Operation table number 72: 
+[ a₁ a₂ a₃ ]
+[ a₃ a₃ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 73: 
+[ a₁ a₃ a₃ ]
+[ a₁ a₂ a₃ ]
+[ a₁ a₃ a₃ ]
+
+Operation table number 74: 
+[ a₁ a₃ a₃ ]
+[ a₁ a₃ a₃ ]
+[ a₁ a₃ a₃ ]
+
+Operation table number 75: 
+[ a₁ a₃ a₃ ]
+[ a₂ a₂ a₂ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 76: 
+[ a₁ a₃ a₃ ]
+[ a₂ a₃ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 77: 
+[ a₁ a₃ a₃ ]
+[ a₃ a₁ a₁ ]
+[ a₃ a₁ a₁ ]
+
+Operation table number 78: 
+[ a₁ a₃ a₃ ]
+[ a₃ a₂ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 79: 
+[ a₁ a₃ a₃ ]
+[ a₃ a₃ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 80: 
+[ a₂ a₁ a₁ ]
+[ a₁ a₂ a₂ ]
+[ a₁ a₂ a₂ ]
+
+Operation table number 81: 
+[ a₂ a₁ a₁ ]
+[ a₁ a₂ a₂ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 82: 
+[ a₂ a₁ a₂ ]
+[ a₁ a₂ a₁ ]
+[ a₂ a₁ a₂ ]
+
+Operation table number 83: 
+[ a₂ a₁ a₃ ]
+[ a₁ a₂ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 84: 
+[ a₂ a₂ a₁ ]
+[ a₂ a₂ a₂ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 85: 
+[ a₂ a₂ a₁ ]
+[ a₂ a₂ a₂ ]
+[ a₂ a₂ a₃ ]
+
+Operation table number 86: 
+[ a₂ a₂ a₂ ]
+[ a₂ a₂ a₂ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 87: 
+[ a₂ a₂ a₂ ]
+[ a₂ a₂ a₂ ]
+[ a₂ a₂ a₁ ]
+
+Operation table number 88: 
+[ a₂ a₂ a₂ ]
+[ a₂ a₂ a₂ ]
+[ a₂ a₂ a₂ ]
+
+Operation table number 89: 
+[ a₂ a₂ a₂ ]
+[ a₂ a₂ a₂ ]
+[ a₂ a₂ a₃ ]
+
+Operation table number 90: 
+[ a₂ a₂ a₂ ]
+[ a₂ a₂ a₂ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 91: 
+[ a₂ a₂ a₃ ]
+[ a₂ a₂ a₃ ]
+[ a₂ a₂ a₃ ]
+
+Operation table number 92: 
+[ a₂ a₂ a₃ ]
+[ a₂ a₂ a₃ ]
+[ a₃ a₃ a₂ ]
+
+Operation table number 93: 
+[ a₂ a₂ a₃ ]
+[ a₂ a₂ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 94: 
+[ a₂ a₃ a₁ ]
+[ a₃ a₁ a₂ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 95: 
+[ a₂ a₃ a₂ ]
+[ a₃ a₂ a₃ ]
+[ a₂ a₃ a₂ ]
+
+Operation table number 96: 
+[ a₂ a₃ a₃ ]
+[ a₃ a₃ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 97: 
+[ a₃ a₁ a₁ ]
+[ a₁ a₂ a₃ ]
+[ a₁ a₃ a₃ ]
+
+Operation table number 98: 
+[ a₃ a₁ a₁ ]
+[ a₁ a₃ a₃ ]
+[ a₁ a₃ a₃ ]
+
+Operation table number 99: 
+[ a₃ a₁ a₂ ]
+[ a₁ a₂ a₃ ]
+[ a₂ a₃ a₁ ]
+
+Operation table number 100: 
+[ a₃ a₁ a₃ ]
+[ a₁ a₂ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 101: 
+[ a₃ a₁ a₃ ]
+[ a₃ a₂ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 102: 
+[ a₃ a₂ a₁ ]
+[ a₂ a₂ a₂ ]
+[ a₁ a₂ a₃ ]
+
+Operation table number 103: 
+[ a₃ a₂ a₂ ]
+[ a₂ a₂ a₂ ]
+[ a₂ a₂ a₂ ]
+
+Operation table number 104: 
+[ a₃ a₂ a₃ ]
+[ a₂ a₂ a₂ ]
+[ a₃ a₂ a₃ ]
+
+Operation table number 105: 
+[ a₃ a₂ a₃ ]
+[ a₂ a₃ a₂ ]
+[ a₃ a₂ a₃ ]
+
+Operation table number 106: 
+[ a₃ a₂ a₃ ]
+[ a₃ a₂ a₃ ]
+[ a₃ a₂ a₃ ]
+
+Operation table number 107: 
+[ a₃ a₃ a₁ ]
+[ a₃ a₃ a₁ ]
+[ a₁ a₁ a₃ ]
+
+Operation table number 108: 
+[ a₃ a₃ a₂ ]
+[ a₃ a₃ a₂ ]
+[ a₂ a₂ a₃ ]
+
+Operation table number 109: 
+[ a₃ a₃ a₃ ]
+[ a₁ a₂ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 110: 
+[ a₃ a₃ a₃ ]
+[ a₂ a₂ a₂ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 111: 
+[ a₃ a₃ a₃ ]
+[ a₃ a₁ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 112: 
+[ a₃ a₃ a₃ ]
+[ a₃ a₂ a₃ ]
+[ a₃ a₃ a₃ ]
+
+Operation table number 113: 
+[ a₃ a₃ a₃ ]
+[ a₃ a₃ a₃ ]
+[ a₃ a₃ a₃ ]
+
+The total number of associative operations is 113

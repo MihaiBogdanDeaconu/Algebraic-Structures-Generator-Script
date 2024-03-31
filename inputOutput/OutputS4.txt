@@ -1,0 +1,2 @@
+H1: ((0, 0), (0, 1), (1, 0), (1, 1), (2, 0), (2, 1))
+The total number of subgroups of the abelian group (𝕫ₘ x 𝕫ₙ, +) is 1.

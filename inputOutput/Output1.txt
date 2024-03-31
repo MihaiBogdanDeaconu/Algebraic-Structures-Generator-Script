@@ -1,0 +1,4 @@
+Operation table number 1: 
+[ a₁ ]
+
+The total number of associative operations is 1
