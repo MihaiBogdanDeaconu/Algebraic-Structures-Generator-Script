@@ -1,9 +1,0 @@
-Operation table number 1: 
-[ a₁ a₂ ]
-[ a₂ a₁ ]
-
-Operation table number 2: 
-[ a₂ a₁ ]
-[ a₁ a₂ ]
-
-The total number of Abelian Groups is 2

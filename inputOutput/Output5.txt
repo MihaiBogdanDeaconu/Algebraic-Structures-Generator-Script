@@ -1,1 +1,0 @@
-n must be a non-zero natural number or file couldn't be opened! Try again!
