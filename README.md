@@ -15,6 +15,27 @@ A command-line tool for generating and enumerating fundamental algebraic structu
 
 ---
 
+## Mathematical Background
+
+The key to efficiently generating these structures was the use of mathematical properties, combined with recursive backtracking.
+
+### 1\. Semigroup Generation
+
+The script can generate all possible semigroups of a given order `n`. It utilizes a backtracking algorithm to systematically explore combinations of elements and verify **associativity** for each potential semigroup.
+
+### 2\. Abelian Group Generation
+
+Abelian Groups of a given order are recursively built using backtracking, using the structural properties of the operation table of a commutative (Abelian) group:
+
+  - **Symmetry** with respect to the main diagonal.
+  - **Element uniqueness** on each row and column.
+  - The existence of the **identity element**.
+  - Keeping its **associative nature**.
+
+### 3\. Subgroup Enumeration
+
+The script enumerates all subgroups of the Abelian Group `(ℤₘ × ℤₙ, +)`. For a finite group `(G, +)`, a non-empty subset `H` is a subgroup of `(G, +)` if and only if `H` is a stable subset of `(G,+)`. Hence, we check for closure under the operation.
+
 ## Project Structure
 
 The project follows a modular structure to enforce separation of concerns, making the code clean, reusable, and easy to test.
